@@ -1,4 +1,6 @@
 import localFont from "next/font/local";
+import Header from "@/components/header/header";
+import Footer from "@/components/footer/Footer";
 import "./globals.css";
 
 const geistSans = localFont({
@@ -21,9 +23,11 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased relative `}
       >
+        <Header className="lg:container mx-auto" />
         {children}
+        <Footer />
       </body>
     </html>
   );
