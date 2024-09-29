@@ -9,7 +9,7 @@ export default function Info() {
     <ul className="mt-10 flex flex-col gap-5">
       <InfoItem img={location} data="Egypt , Alexandria" />
       <InfoItem img={phone} data="035359888" />
-      <InfoItem img={email} data="rightarrow@example.com" />
+      <InfoItem img={email} data="rightarrow888@gmail.com" />
       <InfoItem img={whatsapp} data="01550049592" />
       <InfoItem
         img={facebook}

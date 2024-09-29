@@ -19,7 +19,7 @@ export default function Grid() {
       <InfoItem
         img={email}
         title={"Our Email"}
-        data={["rightarrow@example.com"]}
+        data={["rightarrow888@gmail.com"]}
       />
       <InfoItem
         img={location}
