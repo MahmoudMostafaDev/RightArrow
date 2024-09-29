@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Button from "../ui/button";
 
 export default function Content() {
@@ -10,7 +11,9 @@ export default function Content() {
         life. Experience the difference of precision and precision in every
         print.
       </p>
-      <Button className={"text-black mt-7"}>Discover Our Products</Button>
+      <Link href="#products">
+        <Button className={"text-black mt-7"}>Discover Our Products</Button>
+      </Link>
     </div>
   );
 }
