@@ -1,9 +1,9 @@
 import InfoItem from "./InfoItem";
-import email from "@/public/images/icons/email.png";
-import phone from "@/public/images/icons/phone.png";
-import location from "@/public/images/icons/location.png";
-import whatsapp from "@/public/images/icons/whatsapp.png";
-import facebook from "@/public/images/icons/facebook.png";
+import email from "@/public/icons/email.png";
+import phone from "@/public/icons/phone.png";
+import location from "@/public/icons/location.png";
+import whatsapp from "@/public/icons/whatsapp.png";
+import facebook from "@/public/icons/facebook.png";
 export default function Info() {
   return (
     <ul className="mt-10 flex flex-col gap-5">
