@@ -8,12 +8,13 @@ export default function Page() {
   const [product, setProduct] = useState();
   const [loading, setLoading] = useState(true);
   const { category } = useParams();
-  window.scrollTo(0, 0);
+  
   useEffect(() => {
     async function getProductsFn() {
       console.log(await getProduct(category));
       setProduct(await getProduct(category));
       setLoading(false);
+      window.scrollTo(0, 0);
     }
     getProductsFn();
   }, [category]);
