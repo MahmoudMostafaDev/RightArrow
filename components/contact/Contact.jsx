@@ -7,7 +7,7 @@ export default function Contact({ className }) {
   return (
     <div className={className}>
       <Line Title="Contact Us" />
-      <div className="flex gap-20 justify-between items-center">
+      <div className="flex gap-20 justify-between items-center mb-10">
         <Grid />
         <div className="rounded-[70px] overflow-hidden h-fit md:block hidden">
           <Image src={img} alt="img" />
