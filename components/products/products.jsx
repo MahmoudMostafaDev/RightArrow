@@ -2,7 +2,7 @@ import Line from "../ui/line";
 import Product from "./Product";
 import img1 from "./imgs/1.png";
 import img2 from "./imgs/2.png";
-import img3 from "./imgs/3.png";
+import img3 from "./imgs/bind.png";
 import img4 from "./imgs/one.png";
 import img5 from "./imgs/silk.png";
 import img6 from "./imgs/pig.png";
@@ -20,19 +20,18 @@ export default function products() {
             link="/products/Water-base"
             category="Waterbase"
           />
-          <Product img={img4} link="/products/Binders" category="Binders" />
+          <Product img={img3} link="/products/Binders" category="Binders" />
           <Product
-            img={img3}
+            img={img7}
             link="/products/Photo-Emulsion"
             category="Photo Emulsion"
           />
           <Product img={img5} link="/products/Silk-Mesh" category="Silk" />
           <Product img={img6} link="/products/Pigments" category="Pigments" />
           <Product
-            img={img7}
+            img={img4}
             link="/products/Supplementary-Materials"
             category="Supplementary Materials"
-            full
           />
         </div>
       </div>
