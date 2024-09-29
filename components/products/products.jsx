@@ -10,7 +10,7 @@ import img7 from "./imgs/add.png";
 
 export default function products() {
   return (
-    <div className="mt-20 bg-secondryBackground p-7 pt-7 md:px-0">
+    <div id="products" className="mt-20 bg-secondryBackground p-7 pt-7 md:px-0">
       <Line Title="Our Products" />
       <div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 justify-center mx-auto md:w-5/6 mt-24 ">
