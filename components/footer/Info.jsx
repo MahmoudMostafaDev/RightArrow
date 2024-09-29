@@ -14,11 +14,14 @@ export default function Info() {
       <InfoItem
         img={facebook}
         data={
-          <a href="#" className="text-[#5B68C0]">
+          <a
+            href="https://www.facebook.com/share/p/RMGkh4ebFxmpCcc7/?mibextid=qi2Omg"
+            className="text-[#5B68C0]"
+          >
             Facebook Page
           </a>
         }
-     />
+      />
     </ul>
   );
 }
