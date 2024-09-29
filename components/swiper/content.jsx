@@ -1,4 +1,5 @@
 import Button from "@/components/ui/button";
+import Link from "next/link";
 export default function Content() {
   return (
     <div className="absolute top-1/2 left-5 sm:left-20 -translate-y-1/2 w-4/5 sm:w-2/5">
@@ -10,10 +11,15 @@ export default function Content() {
         a Wide Range of Products to Meet All Your Silkscreen Printing Needs
       </p>
       <div className="flex  gap-2 mt-5">
-        <Button>Products</Button>
-        <Button main className={"hidden sm:block"}>
-          Contact Us
-        </Button>
+        <Link href="#products">
+          {" "}
+          <Button>Products</Button>{" "}
+        </Link>
+        <Link href="#contactus">
+          <Button main className={"hidden sm:block"}>
+            Contact Us
+          </Button>
+        </Link>
       </div>
     </div>
   );
