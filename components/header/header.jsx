@@ -9,7 +9,9 @@ export default function Header({ className }) {
       <Logo />
       <Navbar />
       <Link href="#contactus">
-        <Button main>Contact Us</Button>
+        <Link href="/#contactus">
+          <Button main>Contact Us</Button>
+        </Link>
       </Link>
     </header>
   );
