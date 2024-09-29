@@ -1,0 +1,354 @@
+[
+  {
+    "category": "",
+    "sub-category": [],
+    "products": [
+      {
+        "name": "",
+        "Subcategory": null
+      },
+      {
+        "name": "",
+        "Subcategory": ""
+      }
+    ]
+  },
+  {
+    "category": "Plastizol",
+    "sub-category": ["Local manufacture", "Free Phthalate"],
+    "products": [
+      {
+        "name": "White",
+        "Subcategory": "Local manufacture"
+      },
+      {
+        "name": "Black ",
+        "Subcategory": "Local manufacture"
+      },
+      {
+        "name": "Colors",
+        "Subcategory": "Local manufacture"
+      },
+      {
+        "name": "Fluorescent",
+        "Subcategory": "Local manufacture"
+      },
+      {
+        "name": "Base",
+        "Subcategory": "Local manufacture"
+      },
+      {
+        "name": "rubber",
+        "Subcategory": "Local manufacture"
+      },
+      {
+        "name": "DOP Oil",
+        "Subcategory": "Local manufacture"
+      },
+      {
+        "name": "Foam",
+        "Subcategory": "Local manufacture"
+      },
+      {
+        "name": "White ",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "Black ",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "Colors",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "Fluorescent",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "base",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "rubber",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "DOP Oil",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "Foam",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "anti immigration",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "reducer",
+        "Subcategory": "Free Phthalate"
+      }
+    ]
+  },
+  {
+    "category": "Water-base",
+    "sub-category": ["none", "Free Phthalate"],
+    "products": [
+      {
+        "name": "White 2000",
+        "Subcategory": null
+      },
+      {
+        "name": "White 10000",
+        "Subcategory": null
+      },
+      {
+        "name": "Coloring 3000",
+        "Subcategory": null
+      },
+      {
+        "name": "مطاطية",
+        "Subcategory": null
+      },
+      {
+        "name": "تطرية ",
+        "Subcategory": null
+      },
+      {
+        "name": "White ",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "Coloring ",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "Foam",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "anti immigration",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "silver ",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "Pearl",
+        "Subcategory": "Free Phthalate"
+      },
+      {
+        "name": "gold metallic",
+        "Subcategory": "Free Phthalate"
+      }
+    ]
+  },
+  {
+    "category": "Binders",
+    "sub-category": [],
+    "products": [
+      {
+        "name": "Hokist",
+        "Subcategory": null
+      },
+      {
+        "name": "styrene",
+        "Subcategory": null
+      },
+      {
+        "name": "thickener",
+        "Subcategory": null
+      }
+    ]
+  },
+  {
+    "category": "Photo-Emulsion",
+    "sub-category": [],
+    "products": [
+      {
+        "name": "8000",
+        "Subcategory": null
+      },
+      {
+        "name": "1080",
+        "Subcategory": null
+      },
+      {
+        "name": "25",
+        "Subcategory": null
+      },
+      {
+        "name": "22",
+        "Subcategory": null
+      },
+      {
+        "name": "DPT-51",
+        "Subcategory": null
+      },
+      {
+        "name": "Rubber Emulsion",
+        "Subcategory": null
+      },
+      {
+        "name": "Photo-Mask M",
+        "Subcategory": null
+      },
+      {
+        "name": "Photo-Mask S",
+        "Subcategory": null
+      }
+    ]
+  },
+  {
+    "category": "Silk-Mesh",
+    "sub-category": [],
+    "products": [
+      {
+        "name": "10",
+        "Subcategory": null
+      },
+      {
+        "name": "15",
+        "Subcategory": null
+      },
+      {
+        "name": "24",
+        "Subcategory": null
+      },
+      {
+        "name": "34",
+        "Subcategory": null
+      },
+      {
+        "name": "43",
+        "Subcategory": null
+      },
+      {
+        "name": "55",
+        "Subcategory": null
+      },
+      {
+        "name": "60",
+        "Subcategory": null
+      },
+      {
+        "name": "70",
+        "Subcategory": null
+      },
+      {
+        "name": "77",
+        "Subcategory": null
+      },
+      {
+        "name": "90",
+        "Subcategory": null
+      },
+      {
+        "name": "120",
+        "Subcategory": null
+      }
+    ]
+  },
+  {
+    "category": "Supplementary-Materials",
+    "sub-category": [],
+    "products": [
+      {
+        "name": " squeegee ",
+        "Subcategory": null
+      },
+      {
+        "name": "Transfer Powder",
+        "Subcategory": null
+      },
+      {
+        "name": "Stretch ",
+        "Subcategory": null
+      },
+      {
+        "name": "Titanium ",
+        "Subcategory": null
+      },
+      {
+        "name": "PVC",
+        "Subcategory": null
+      },
+      {
+        "name": "DOP Oil",
+        "Subcategory": null
+      },
+      {
+        "name": "Dry-Stick",
+        "Subcategory": null
+      },
+      {
+        "name": "Dry-Stick Spray",
+        "Subcategory": null
+      },
+      {
+        "name": "Filler Plastizol",
+        "Subcategory": null
+      }
+    ]
+  },
+  {
+    "category": "Pigments",
+    "sub-category": [],
+    "products": [
+      {
+        "name": "black",
+        "Subcategory": null
+      },
+      {
+        "name": "red s",
+        "Subcategory": null
+      },
+      {
+        "name": "red k",
+        "Subcategory": null
+      },
+      {
+        "name": "red 4",
+        "Subcategory": null
+      },
+      {
+        "name": "gold yellow",
+        "Subcategory": null
+      },
+      {
+        "name": "yellow",
+        "Subcategory": null
+      },
+      {
+        "name": "violet",
+        "Subcategory": null
+      },
+      {
+        "name": "blue",
+        "Subcategory": null
+      },
+      {
+        "name": "navy",
+        "Subcategory": null
+      },
+      {
+        "name": "green",
+        "Subcategory": null
+      },
+      {
+        "name": "orange",
+        "Subcategory": null
+      },
+      {
+        "name": "brown",
+        "Subcategory": null
+      },
+      {
+        "name": "turquoise color",
+        "Subcategory": null
+      }
+    ]
+  }
+]

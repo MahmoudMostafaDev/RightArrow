@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Martel:wght@200;300;400;600;700;800;900&family=Maven+Pro:wght@400..900&display=swap");
+.main {
+  background-color: #28bd11;
+}
+.secondary {
+  background-color: white;
+}
+.button {
+  font-family: "Martel", serif;
+  font-weight: 900;
+  font-size: 1rem;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
