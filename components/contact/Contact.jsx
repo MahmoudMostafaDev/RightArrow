@@ -5,7 +5,7 @@ import img from "./imgs/phones.png";
 
 export default function Contact({ className }) {
   return (
-    <div className={className}>
+    <div id="contactus" className={className}>
       <Line Title="Contact Us" />
       <div className="flex gap-20 justify-between items-center mb-10">
         <Grid />
