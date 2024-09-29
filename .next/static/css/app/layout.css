@@ -625,6 +625,27 @@ video {
 .mt-7 {
   margin-top: 1.75rem;
 }
+.ms-5 {
+  margin-inline-start: 1.25rem;
+}
+.ms-0 {
+  margin-inline-start: 0px;
+}
+.me-5 {
+  margin-inline-end: 1.25rem;
+}
+.me-10 {
+  margin-inline-end: 2.5rem;
+}
+.me-16 {
+  margin-inline-end: 4rem;
+}
+.me-20 {
+  margin-inline-end: 5rem;
+}
+.block {
+  display: block;
+}
 .flex {
   display: flex;
 }
@@ -670,6 +691,9 @@ video {
 .basis-1\/2 {
   flex-basis: 50%;
 }
+.basis-1\/3 {
+  flex-basis: 33.333333%;
+}
 .-translate-y-1\/2 {
   --tw-translate-y: -50%;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
@@ -691,6 +715,9 @@ video {
 }
 .justify-between {
   justify-content: space-between;
+}
+.justify-evenly {
+  justify-content: space-evenly;
 }
 .gap-10 {
   gap: 2.5rem;
@@ -776,8 +803,14 @@ video {
 .pt-7 {
   padding-top: 1.75rem;
 }
+.pe-5 {
+  padding-inline-end: 1.25rem;
+}
 .text-center {
   text-align: center;
+}
+.text-end {
+  text-align: end;
 }
 .font-mono {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -928,6 +961,14 @@ body {
   .min-\[435px\]\:block {
     display: block;
   }
+
+  .min-\[435px\]\:pe-0 {
+    padding-inline-end: 0px;
+  }
+
+  .min-\[435px\]\:text-center {
+    text-align: center;
+  }
 }
 
 @media (min-width: 450px) {
@@ -974,6 +1015,10 @@ body {
 
   .sm\:p-4 {
     padding: 1rem;
+  }
+
+  .sm\:text-center {
+    text-align: center;
   }
 
   .sm\:text-2xl {
