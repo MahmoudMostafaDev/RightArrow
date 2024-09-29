@@ -8,12 +8,7 @@ export default function Navbar() {
     <nav className={`${classes.navbar}`}>
       <ul className="flex gap-5">
         <li className={usePathname() === "/" ? `${classes.selected}` : ""}>
-          <Link href="/products">Home</Link>
-        </li>
-        <li
-          className={usePathname() === "/products" ? `${classes.selected}` : ""}
-        >
-          <Link href="/products">Products</Link>
+          <Link href="/">Home</Link>
         </li>
       </ul>
     </nav>

@@ -1,0 +1,4 @@
+{
+  "/products/[category]/page": "app/products/[category]/page.js",
+  "/icon.png/route": "app/icon.png/route.js"
+}
