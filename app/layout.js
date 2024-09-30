@@ -16,7 +16,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "RightArrow",
-  description: "Best company ever",
+  description: "Premium Silkscreen Printing Materials for Professional Results",
 };
 
 export default function RootLayout({ children }) {
